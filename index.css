@@ -22,7 +22,7 @@ html, body {
     left: 0;
     right: 0;
     height: 50px;
-    background-color: #367bd6;
+    background-color: #2D6CA2;
     border-bottom: 1px solid black;
 }
 
@@ -105,7 +105,7 @@ html, body {
     bottom: 0;
     width: 250px;
     padding: 0 15px 15px 15px;
-    background-color: #bfbfbf;
+    background-color: #646464;
     overflow-x: hidden;
     overflow-y: auto;
 }
@@ -191,7 +191,7 @@ html, body {
 .btn-default.active,
 .btn-default:focus,
 .btn-default:hover {
-    color: #93C47D;
+    color: #337ab7;
 }
 .btn-default.active {
      font-weight: 700;
@@ -201,5 +201,5 @@ a:link,
 a:visited,
 a:hover,
 a:active {
-    color: #b32e2e;
+    color: #bbc0ff;
 }
