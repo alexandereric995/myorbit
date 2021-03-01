@@ -499,7 +499,7 @@ require({
                     );
                 } else {
                     $('#satellite-count').html(
-                        string.substitute('${found} of ${count} : CONNETION FOUND', {
+                        string.substitute('${found} of ${count} : CONNECTION FOUND', {
                             found: number.format(selected, {
                                 places: 0
                             }),
